@@ -288,7 +288,7 @@ nav .other_list {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 50px;
+    gap: 40px;
     width: 100%;
     justify-content: space-between;
 }
