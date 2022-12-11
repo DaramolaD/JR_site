@@ -125,8 +125,8 @@ nav .other_list {
 }
 .home .content2 .text p{
     font-family: "Noto Serif JP";
-    font-size: 90px;
-    line-height: 116px;
+    font-size: 60px;
+    /* line-height: 116px; */
     color: #2C2A2B;
     width: 100%;
 }
