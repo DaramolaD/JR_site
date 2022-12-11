@@ -304,7 +304,7 @@ nav .other_list {
 .collection .content .text h2 {
     color: #2C2A2B;
     font-family: "Noto Serif JP";
-    font-size: 54px;
+    font-size: 40px;
     line-height: 72px;
 }
 .collection .content .text h3 {
@@ -318,7 +318,7 @@ nav .other_list {
 }
 .collection .content .text p {
     font-family: "Gilroy-Regular";
-    font-size: 20px;
+    font-size: 16px;
     line-height: 30px;
     color: #3D3D3F;
     padding-bottom: 30px;
